@@ -1,4 +1,4 @@
-# pixieedust
+# pixieeedust
 
 Jessa Dasas
 3rd year Bacheloe of science in Information Technology
